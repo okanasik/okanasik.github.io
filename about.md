@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Okan Aşık
+title: About
 permalink: /about/
 ---
 
-![Okan Aşık](/assets/okan_asik.jpg)
+![Okan Aşık](/assets/images/okan_asik.jpg)
 
-I am a PhD Candidate at the [Department of Computer Engineering](www.cmpe.boun.edu.tr) of [Boğaziçi University](www.boun.edu.tr). I am a member of [Robotics Research Group](robot.cmpe.boun.edu.tr). I am the team leader of [RoboAKUT](robot.cmpe.boun.edu.tr/rescue) team (RoboCup Rescue Agent Simulation League Team). I was a member and team leader of [Cerberus](robot.cmpe.boun.edu.tr/~cerberus) team (RoboCup Standard Platform League Team).
+I am Okan Aşık, a PhD Candidate at the [Department of Computer Engineering](www.cmpe.boun.edu.tr) of [Boğaziçi University](www.boun.edu.tr). I am a member of [Robotics Research Group](robot.cmpe.boun.edu.tr). I am the team leader of [RoboAKUT](robot.cmpe.boun.edu.tr/rescue) team (RoboCup Rescue Agent Simulation League Team). I was a member and team leader of [Cerberus](robot.cmpe.boun.edu.tr/~cerberus) team (RoboCup Standard Platform League Team).
 
 In 2012, I completed M.Sc. Thesis titled as *Using DEC-POMDP Algorithms to Solve Multi-Agent Decision Problems in Robot Soccer* and my supervisor is [Prof. H. Levent Akın](www.cmpe.boun.edu.tr/~akin).
 
