@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+* O. Aşık, B. Görer, and H. L. Akın, "End-to-End Deep Imitation Learning: Robot Soccer Case Study", RoboCup 2018 Symposium, June 22, 2018, Montreal, 2018. [[arxiv pdf](https://arxiv.org/pdf/1807.09205.pdf)]
+
 * O. Aşık, and H. L. Akın, "RoboCup Arama Kurtarma Benzetim Ortamında Monte Carlo Ağaç Araması Yöntemiyle Planlama", TORK 2016, Istanbul, November 2-3, 2016, 2016. [[pdf](/assets/papers/asik_tork2016.pdf)] (in Turkish) (**Best Paper Award**)
 
 * O. Aşık, and H. L. Akın, "Effective Multi-Robot Spatial Task Allocation using Model Approximations", RoboCup 2015 Symposium, July 23, 2015, Hefei, 2015. [[arxiv pdf](https://arxiv.org/pdf/1606.01380.pdf)]
