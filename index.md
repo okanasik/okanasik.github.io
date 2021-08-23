@@ -10,10 +10,6 @@ title:
 
 I am a PhD candidate in Computer Engineering Department of Boğaziçi University, Istanbul, Turkey. I am a member of Robotics research group led by Prof. H. Levent Akın. My PhD is about Artificial Intelligence and robotics. I have been working to develop general decentralized planning algorithms for complex real world problems. I use RoboCup Rescue Simulation as an application area.
 
-You can check out my publications here: [publications](/publications/)
-
-You can check out my projects here: [projects](/projects/)
-
-You can check out my blog here: [blog](/blog/)
+Check out [My publications](/publications/).
 
 

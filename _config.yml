@@ -16,7 +16,7 @@
 title: Okan's Universe
 email: asik.okan [at] gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal website of a PhD candidate in CS, a robotics researcher, an AI researcher and a software engineer.
+  A personal website of a software developer and PhD candidate in robotics and artificial intelligence.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: oasik
